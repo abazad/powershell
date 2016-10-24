@@ -1,0 +1,1 @@
+schtasks /create /tn mytask /tr notepad.exe /sc minute  /mo 1
